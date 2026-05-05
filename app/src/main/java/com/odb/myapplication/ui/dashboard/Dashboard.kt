@@ -145,7 +145,7 @@ fun ObdDashboardScreen(modifier: Modifier = Modifier, vm: ObdViewModel) {
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 Text(
-                    text = "OBD2 Dashboard",
+                    text = "OBD Dashboard",
                     style = MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold),
                     color = Color.White
                 )
